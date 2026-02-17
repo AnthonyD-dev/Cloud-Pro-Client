@@ -117,18 +117,6 @@ npm start
 
 ---
 
-## ⚙️ Configuration
-
-Environment variables (if applicable):
-
-```
-PORT=
-API_KEY=
-AUTH_SECRET=
-```
-
----
-
 ## 🔐 Security
 
 * Secure account handling
@@ -139,10 +127,10 @@ AUTH_SECRET=
 
 ## 🌐 Social Links
 
-* Twitter
-* Discord
-* Instagram
-* Official Website
+* [Twitter](https://x.com/CloudProClient)
+* [Discord](https://discord.gg/zVDWgs6p8A)
+* [Instagram](https://www.instagram.com/cloudproclient/)
+* [Official Website]()
 
 ---
 
