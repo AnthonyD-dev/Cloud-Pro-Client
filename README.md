@@ -1,5 +1,3 @@
----
-
 # ☁️ Cloud Pro Client
 
 **Cloud Pro Client** is a modern desktop application designed for music producers using FL Studio.
