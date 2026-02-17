@@ -103,7 +103,7 @@ Cloud Pro Client allows users to:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/cloud-pro-client.git
+git clone https://github.com/AnthonyD-dev/cloud-pro-client.git
 
 # Navigate into project
 cd cloud-pro-client
