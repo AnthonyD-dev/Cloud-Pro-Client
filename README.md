@@ -88,17 +88,6 @@ Cloud Pro Client allows users to:
 
 ---
 
-## 🛠️ Tech Stack
-
-*(Edit this section based on your actual stack)*
-
-* Frontend: HTML / CSS / JavaScript (or Electron)
-* Backend: Node.js (if applicable)
-* Database: (Specify if used)
-* Authentication: (Specify if used)
-
----
-
 ## 📥 Installation
 
 ```bash
